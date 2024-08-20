@@ -1,0 +1,101 @@
+entity_id,entity_name,entity_type,risk_category,listed_date,source
+8d070852-2360-4bc0-beee-331d53067a85,Dodson-Larson,Organization,Medium,2024-07-31,Interpol
+ecb2f3ac-428b-4312-86a3-c331cf89cc83,Maria Ortiz,Organization,Low,2017-08-24,Interpol
+7b227164-0ff4-4506-854c-ea8bb4e7533a,Devin Phillips,Individual,High,2023-07-18,UN
+fde6b672-190c-4b13-8532-14c79efe3327,Brenda Hamilton,Organization,High,2015-06-04,EU
+1686e79a-4ea4-4349-a8ff-57052aa92799,Cheryl Pearson,Organization,High,2017-10-28,UN
+47a8be24-edbb-4bca-b6ba-793274515ac5,Kevin Owen,Organization,Low,2019-12-26,OFAC
+57fcb119-4efa-40b4-9a55-359141dcc346,Justin Foster,Individual,Medium,2019-06-01,OFAC
+a771517a-59c4-4b33-8ab8-c2be90e532f0,Krause PLC,Organization,High,2015-03-12,UN
+de918892-1a89-4475-88bc-4b7cdb715aa2,Romero-Gutierrez,Individual,High,2022-05-09,UN
+35ac496d-6dc2-45ca-b134-992a610f1d09,"Park, Coleman and Olson",Individual,Medium,2024-02-04,OFAC
+788be461-3f87-4051-b715-998da5fd1dbc,Perez-Jones,Organization,Medium,2024-04-26,OFAC
+de6b5584-30b7-47f6-a791-b8b8fd4ae301,Montgomery-Brown,Individual,High,2021-06-02,Interpol
+3fb2ad0a-79ba-4b33-a92f-4cd6f1c3cc9d,Lisa Pennington,Individual,Low,2024-03-11,Interpol
+1e27b52b-3a95-460a-9f14-92f66203152b,"Mcconnell, Barnes and Torres",Individual,High,2017-11-12,EU
+c0247b77-2c5c-4852-872b-08ea8468b445,Krystal Lambert,Individual,High,2020-12-30,EU
+25eebd07-9f99-46ed-a75e-4e5f5754ca50,Julie Baldwin,Organization,Medium,2023-03-15,OFAC
+89408e9f-f6d6-4e12-9e86-7b9f46afa88d,Bennett PLC,Individual,Low,2021-10-14,Interpol
+e8d62fd1-352f-4afe-907f-6a7a7aa77f1b,Katherine Edwards,Organization,Medium,2020-09-25,Interpol
+c46aefc9-ca49-4288-ba64-62e519934b1a,"Berger, Jones and Smith",Organization,Low,2015-05-06,Interpol
+af7a6654-f5aa-40f2-bc77-d6933e5e01f7,Steven Henderson,Individual,High,2022-07-04,EU
+7519d168-45d9-4d09-a8db-d10e8da21b44,John Klein,Individual,Low,2023-10-08,OFAC
+c1fb67c1-8711-4f19-b699-39033c4973ee,Karen Torres,Individual,Low,2023-04-10,UN
+f1bf0c06-4074-4769-9527-c883b28e6c09,Vasquez PLC,Organization,Low,2017-12-14,UN
+f775fa14-1fb8-473b-9571-5588d94dd820,Alec Palmer,Organization,Medium,2022-04-28,UN
+d3e5a42c-205d-48ab-880d-3535dbec4f2b,Kayla Cook,Organization,Low,2021-05-16,Interpol
+4caa23d8-e4c2-4b7a-8a3e-25d7f58c4eb2,Michael Coleman,Organization,Medium,2021-11-14,Interpol
+9a36c411-84fc-4763-9c1f-56964fe17307,Angela Richards PhD,Individual,Low,2017-04-25,UN
+adc85ba4-772f-4f3d-a684-1d2fb9e0c7f2,Harris-Ortega,Organization,Low,2020-03-12,OFAC
+8fe847d8-922a-439f-b1c0-441c025f62c1,"Coleman, Grant and Stevens",Organization,Low,2016-07-18,EU
+bd245fd0-b3b6-420e-bcda-19e7f341f5af,Kevin Austin,Individual,Medium,2016-12-16,UN
+117a22fb-6d20-4b89-8ac7-8a424f497f8e,Kyle Morales,Organization,High,2018-02-05,UN
+054fc89f-a4e5-4253-a27f-747b6c217cb4,Shannon Bautista,Organization,Medium,2016-07-26,Interpol
+fdd4144d-105d-4d7a-aed3-d97f9ea5a0ee,Jacob Schmidt,Individual,Low,2018-12-26,Interpol
+b00f0b99-98e1-420d-967b-62ba34af34e5,Mcdonald LLC,Individual,Low,2019-02-13,OFAC
+e43625f1-8739-49e1-9644-8a80e496a786,John Jennings,Organization,Medium,2020-04-25,UN
+2a26cfb8-7e4b-46d7-bccd-5bc1fbf58c8d,Peter Davis,Individual,High,2014-12-28,EU
+990ec039-6fbc-4f75-9c62-041f64dd55a3,Dan Lester,Organization,Medium,2024-02-04,Interpol
+06ea290c-47b8-47c3-855c-090eeeeb2913,"Kennedy, Kelly and Garcia",Organization,Medium,2018-11-03,EU
+3835d6d1-fff8-4d30-be2b-cc0c0672b314,Koch-Phillips,Organization,Medium,2019-03-19,OFAC
+6f08f6cd-a0f4-4629-89f7-fa967d8cf21c,Robert Sutton,Organization,Medium,2018-01-02,Interpol
+63209008-5c7a-4d9d-a236-1d3534269bd4,Carrie Orr,Individual,Low,2018-03-21,Interpol
+53d6a220-bbdf-46d2-b42c-403ee9d7ade8,Martin-Wright,Organization,High,2019-09-10,UN
+ef957b7e-1fab-4a17-9cce-4271f7f24815,Ricardo Anderson,Individual,Low,2022-09-22,EU
+8165bbf6-8625-40af-89fc-118d2ffec7c1,"Soto, Bennett and Parker",Organization,Medium,2021-08-24,OFAC
+3d6bd154-8fb1-45c4-931f-0a07bb58a2cd,Brandon Pacheco,Individual,Low,2017-03-26,Interpol
+42f733ab-0e9f-428b-9195-64b1a2dc6d7c,Gonzalez Ltd,Organization,Low,2021-11-06,OFAC
+95351e13-f1e8-4784-8ac1-2e4c9d81bb50,Ho-Burton,Organization,Low,2015-11-26,OFAC
+11380f39-4076-4fbb-8e82-e03993ae1267,"Kelly, Porter and Rodriguez",Organization,High,2021-12-24,UN
+737bb7db-2b4e-4294-bec4-eebf3da173ac,Julie Wilson,Organization,Medium,2015-06-05,Interpol
+9e150b7b-11b9-41c4-8d2a-d392a82bc7a7,Kimberly Cervantes,Organization,High,2021-06-13,EU
+d8fc761b-6c36-4ae4-98ba-0daef35dcd2a,Pittman Inc,Individual,High,2019-04-02,Interpol
+57dbfb65-e58f-44b5-99b4-d27514679243,Rodriguez Group,Individual,High,2018-07-10,EU
+4d1c49e5-fd52-426d-bfcb-4d0f4c4960cf,Hale LLC,Organization,High,2022-02-27,EU
+7fd377b9-a94c-4979-b408-49af149fd7a2,Nelson-Tucker,Individual,High,2016-02-02,EU
+d1cb4808-cfde-4647-a29f-153aac0103bf,Ronald Kline,Organization,High,2016-11-30,Interpol
+ab1b1f46-464a-48ea-9836-cdb0968622ef,Sarah Yates,Individual,Low,2020-07-29,Interpol
+ab8d9af8-c5e9-4214-90ad-acdefeb4d6d3,"Gillespie, Herman and Frey",Organization,High,2021-01-09,EU
+0997d3a9-9625-4fd5-a728-352f07c8792e,Adams PLC,Organization,High,2021-11-12,Interpol
+695c3260-e8b3-4b12-9e32-9d5e333390aa,Williams Group,Organization,Low,2020-05-23,OFAC
+f779f072-6d01-4448-b34e-a943d35a6d6c,Jeff Archer,Individual,High,2019-03-05,OFAC
+f4c55f30-d85f-48e7-917d-4af8e3bfc00a,"Myers, Andrews and Ryan",Individual,Medium,2023-01-04,OFAC
+a0116307-a3fb-4a26-92a7-91c42edecce2,"Morales, Guerrero and Rogers",Individual,High,2023-06-23,OFAC
+028249f6-ced6-4e9e-9e15-d9d30b470172,Lisa Martin,Individual,Low,2020-06-23,OFAC
+4473216d-fd6e-45f1-b571-1d37b5f307fd,Bryan Bell,Organization,Medium,2018-12-03,OFAC
+3ff70a6b-6616-424c-bc62-ca0080fa6e01,Mr. Jay Perkins,Individual,Low,2019-08-24,OFAC
+38dfec92-c7ed-4bf7-a065-050a1a884472,Phyllis Sanders DVM,Individual,High,2016-08-11,EU
+7469968c-1fac-4fd6-aee0-3e03f03f8ab9,Timothy Winters,Organization,High,2019-04-26,OFAC
+557e9fb7-4f46-49d4-9d24-cc2175a42ffa,Andrew Johnson DDS,Organization,Low,2024-01-21,OFAC
+49494bc1-dd32-458c-ac6b-06ccb9674574,Cook and Sons,Organization,High,2021-06-09,EU
+c55ad31c-94ea-4fc3-8b53-97cb68b3ae65,Richard-Marquez,Individual,High,2020-09-09,EU
+3c0dfb32-2dad-4a81-b6d4-5481ecb44b95,Travis Flores,Individual,High,2024-02-18,OFAC
+2764fafc-8bc6-47de-b604-0068a94d8f73,Ruben Hernandez,Organization,Low,2017-06-08,Interpol
+8ff8b975-b6d2-4122-9f0d-73c5ed2f1889,Terry Inc,Individual,Medium,2021-10-18,EU
+32fdac5e-de5e-45ff-bfaa-174049befe71,Theresa Martinez,Organization,High,2018-03-01,OFAC
+7f88ea91-8a94-4941-8bbc-709a150e8a11,Jason Sanchez,Individual,Medium,2018-07-31,OFAC
+22ae94cf-6ddd-4816-9271-449ec4c86636,Carolyn Turner,Individual,High,2014-11-25,Interpol
+f146cfe1-e1d6-44be-86d8-7803226d17ab,Brown-Campos,Individual,Medium,2021-04-12,Interpol
+dcd6d89b-e3cd-4e1f-8e0e-d90870e5d328,Joseph Leonard,Individual,Medium,2015-12-28,EU
+44f3f6a9-1029-4224-8d3a-429788d4c3f9,Young-Dunn,Individual,Low,2021-04-19,EU
+8d57fd2f-0c96-4bed-af81-32b515a6f184,Joanne Hill,Individual,High,2019-04-10,UN
+460b83dc-13d7-42a7-96a4-0179b2ccc940,Angie Jones,Individual,Low,2021-10-12,Interpol
+9399776a-8570-401c-bbf8-f95253e2be45,Joanna Austin,Individual,Medium,2023-02-07,Interpol
+c2c0f9e9-cfef-4788-8acd-71ddd48f575b,Oscar Gonzales,Organization,Medium,2021-01-30,Interpol
+3620bda0-3a5f-4701-af30-fa001d01ca98,Jackson Ltd,Organization,Medium,2023-04-24,Interpol
+d149cab9-e7a9-4186-8c92-c923f1dd98eb,Jason Smith,Individual,Low,2017-11-02,OFAC
+c9e8f2c5-432c-4735-9743-0ae25b30bcfa,"Ross, Brown and Brown",Organization,High,2016-11-20,OFAC
+20b1fa2c-683d-4f70-8336-2548ceec090c,Rasmussen-Stanley,Individual,Medium,2017-10-15,UN
+94a6349b-1461-46d5-a9e6-b2b93937e562,Elizabeth Jackson,Organization,Medium,2018-11-04,Interpol
+f8e24890-303d-423a-83b0-91bb835eda10,Anderson and Sons,Individual,Medium,2016-10-06,EU
+9ba10a89-2948-4ec4-918a-590c0d505c8d,"Kaiser, Williams and Combs",Organization,High,2022-03-09,EU
+e9aef8dd-4d9d-4b96-ba16-8c877de5ebaa,"Gutierrez, Torres and Hess",Individual,Medium,2016-07-08,OFAC
+30d48da1-83ef-453d-b8cd-1e2d90eea6a3,Katelyn Johnson,Organization,Low,2021-07-08,OFAC
+385c95f3-fabd-4b7d-be2d-86e93e68b132,Reynolds-Carter,Organization,Low,2024-02-16,OFAC
+eef752f3-0fd0-47bd-8c32-0bf4a9f08b8e,Garcia-Burton,Individual,High,2023-12-02,EU
+8ef371c4-e4c6-4c36-bcf3-f6b4d10bbfc1,Lewis LLC,Organization,Medium,2019-09-10,UN
+2114cd08-beeb-46e2-9599-66dbe44fb2bb,"Gross, Singleton and Burch",Individual,High,2019-10-06,Interpol
+0c479dad-0853-4bfe-bed8-cd4ed5f5a1bc,Martha Houston,Individual,High,2019-07-30,OFAC
+14df8f8e-823b-4b6f-ad7d-8b8ce9029db2,Saunders-Henderson,Individual,High,2023-03-29,OFAC
+f38a6048-56d4-42d2-8f31-e04dc129d7dc,Robert Long,Organization,High,2020-02-14,EU
+12fea6ae-dbaf-4fec-8cb1-c03afaff611d,"Pierce, Blanchard and Martinez",Individual,High,2021-08-18,OFAC
